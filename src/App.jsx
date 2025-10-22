@@ -3,7 +3,7 @@ import "./App.css";
 
 export function App() {
   // Named export
-
+  const test = 2;
   //const [count, setCount] = useState(0);
   return <div>Hallo Welt</div>;
 }
